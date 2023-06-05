@@ -43,12 +43,12 @@
       "KC_DOT",
       "KC_QUES",
       "KC_RALT",
-      "KC_LCTL",
+      "KC_LGUI",
       "MO(2)",
       "KC_SPC",
       "SC_SENT",
       "MO(3)",
-      "KC_LGUI"
+      "KC_LCTL"
     ],
     [
       "KC_PGUP",
@@ -132,9 +132,9 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_SPC",
-      "KC_NO",
       "KC_TRNS",
+      "KC_SPC",
+      "SC_SENT",
       "SC_SENT",
       "KC_TRNS"
     ],
